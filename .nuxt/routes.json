@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/admin/learn/lagou/part3/module3/4-2/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "/",
+        "name": "home",
+        "component": "/Users/admin/learn/lagou/part3/module3/4-2/realworld-nuxtjs/pages/home",
+        "_name": "_260c2df6"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/admin/learn/lagou/part3/module3/4-2/realworld-nuxtjs/pages/login",
+        "_name": "_9b08fffa"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/admin/learn/lagou/part3/module3/4-2/realworld-nuxtjs/pages/login",
+        "_name": "_9b08fffa"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/admin/learn/lagou/part3/module3/4-2/realworld-nuxtjs/pages/profile",
+        "_name": "_4a7b487a"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/admin/learn/lagou/part3/module3/4-2/realworld-nuxtjs/pages/settings",
+        "_name": "_0ec92d49"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/admin/learn/lagou/part3/module3/4-2/realworld-nuxtjs/pages/editor",
+        "_name": "_df2eb7da"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/admin/learn/lagou/part3/module3/4-2/realworld-nuxtjs/pages/article",
+        "_name": "_7ce6c1e0"
+      }
+    ],
+    "_name": "_c7910460"
+  }
+]
